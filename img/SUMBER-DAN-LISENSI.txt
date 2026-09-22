@@ -1,0 +1,46 @@
+SUMBER DAN LISENSI FOTO
+====================================================
+
+Semua foto diambil dari Wikimedia Commons.
+Lisensi memungkinkan penggunaan komersial.
+
+subuh-1.jpg  (latar hero)
+  Judul   : Sunrise taken over Blenheim lake
+  Lisensi : CC BY-SA 4.0
+  Sumber  : Wikimedia Commons
+
+masjid-1.jpg  (latar CTA akhir)
+  Judul   : Badshahi Mosque Silhouette at sunset
+  Lisensi : CC BY-SA 3.0
+  Sumber  : Wikimedia Commons
+
+tangan-doa.jpg  (latar section dampak)
+  Judul   : Silhouette of the New Mosque in Istanbul
+  Lisensi : CC BY-SA 4.0
+  Sumber  : Wikimedia Commons
+
+prog-pangan.jpg  (kartu program)
+  Judul   : Capital Area Food Bank
+  Lisensi : Public domain
+  Sumber  : Wikimedia Commons (USDA)
+
+prog-pendidikan.jpg  (kartu program)
+  Judul   : A Taiwanese Boy Wearing School Uniform
+  Lisensi : CC BY-SA 2.0
+  Sumber  : Wikimedia Commons
+
+prog-sosial.jpg  (kartu program)
+  Judul   : A volunteer helping a visitor
+  Lisensi : Public domain
+  Sumber  : Wikimedia Commons
+
+prog-lainnya.jpg  (kartu program)
+  Judul   : Badshahi Mosque Silhouette at sunset wide angle
+  Lisensi : CC BY-SA 3.0
+  Sumber  : Wikimedia Commons
+
+----------------------------------------------------
+Catatan lisensi:
+- CC BY-SA  : wajib cantumkan kredit + lisensi sama
+- Public domain : tidak ada kewajiban kredit
+----------------------------------------------------
